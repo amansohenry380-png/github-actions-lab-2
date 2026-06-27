@@ -1,0 +1,21 @@
+{
+  "name": "github-actions-lab-2",
+  "version": "1.0.0",
+  "description": "My first GitHub Actions workflow 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansohenry380-png/github-actions-lab-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amansohenry380-png/github-actions-lab-2/issues"
+  },
+  "homepage": "https://github.com/amansohenry380-png/github-actions-lab-2#readme"
+}
